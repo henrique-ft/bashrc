@@ -1,0 +1,6 @@
+Dowloads:
+
+https://github.com/jesseduffield/lazygit
+https://httpie.org/docs#examples
+https://github.com/ggreer/the_silver_searcher
+https://github.com/tmux/tmux
